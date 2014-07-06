@@ -5,6 +5,11 @@
 
 Bump module versions across different package managers. See [mversion](https://github.com/mikaelbr/mversion) for more information.
 
+# Deprecated
+
+This module is deprecated in favor of [gulp-bump](https://github.com/stevelacy/gulp-bump).
+This repository is readded to Github to prevent dead links and to
+provide a link to [gulp-bump](https://github.com/stevelacy/gulp-bump).
 
 ## Usage
 
