@@ -1,4 +1,6 @@
-# gulp-mversion
+# ~~gulp-mversion~~ 
+(deprecated. See [gulp-bump](https://github.com/stevelacy/gulp-bump))
+
 [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url]  [![Dependency Status][depstat-image]][depstat-url]
 
 > mversion plugin for [gulp](https://github.com/wearefractal/gulp)
